@@ -29,7 +29,7 @@ const puzzles = [
   { grid: ["   +--+", "  ++  |", "+-++--+", "|  |  |", "+--+--+"], answer: 6 },
   makeNxNPuzzle(1, 1),
   makeNxNPuzzle(2, 1),
-  // makeNxNPuzzle(5),
+  makeNxNPuzzle(3, 2),
   // makeNxNPuzzle(5, 2),
   // makeNxNPuzzle(9, 2),
   // makeNxNPuzzle(150, 5),
